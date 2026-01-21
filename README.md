@@ -116,19 +116,19 @@ The NT.Watchdog project enables ethical hackers, researchers, and educators to t
 
 ## Screenshots
 - **Dashboard / Home Page:**
-  ![Dashboard](.home.jpg)
+  ![Dashboard](./home.jpg)
 
 - **Signal Strength Analyzer Module:**
-  ![wifi analyzer](.analyzer.jpg)
+  ![wifi analyzer](./analyzer.jpg)
 
 - **WiFi Network Scanner Module:**
-  ![network scanner](.scan.jpg)
+  ![network scanner](./scan.jpg)
 
 - **Deauthentication Attack Module:**
-  ![deauth](.deauth.png)
+  ![deauth](./deauth.png)
 
 - **Evil Twin Module:**
-  ![evil twin](.evil_twin.jpg)
+  ![evil twin](./evil_twin.jpg)
 
 ## Disclaimer
 This project is intended solely for educational and authorized penetration testing purposes. Unauthorized usage on networks you do not own or have explicit permission to test is illegal and unethical.
