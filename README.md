@@ -122,7 +122,7 @@ The NT.Watchdog project enables ethical hackers, researchers, and educators to t
   ![wifi analyzer](./analyzer.jpg)
 
 - **WiFi Network Scanner Module:**
-  ![network scanner](./scan.jpg)
+  ![network scanner](./device_scan.jpg)
 
 - **Deauthentication Attack Module:**
   ![deauth](./deauth.png)
